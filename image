@@ -7,6 +7,15 @@
 
 	<h1>This is my first page in Bootcamp-course</h1>
 	<img src="https://www.gstatic.com/webp/gallery3/2.png">
+<h2>In Finland it is too cold and dark</h2>
+		<ul>
+			<li>Today it was minus 10 degrees</li>
+			<li>Wind makes it even worse</li>
+			<li>We waited over 4 hours to get us in to some lame interactive museum</li>
+
+		</ul>
+
+	<a href="https://www.holiday-weather.com/helsinki/averages/">From here you can see the annual weather in Finland</a>
 
 </body>
 </html>
